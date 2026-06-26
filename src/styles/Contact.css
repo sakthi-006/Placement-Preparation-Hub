@@ -1,0 +1,39 @@
+.contact-form{
+  max-width:600px;
+
+  margin:auto;
+}
+
+.contact-form input,
+.contact-form textarea{
+
+  width:100%;
+
+  padding:15px;
+
+  margin-bottom:15px;
+
+  border:none;
+
+  border-radius:15px;
+
+  background:
+  rgba(255,255,255,.08);
+
+  color:white;
+}
+
+.contact-form button{
+
+  width:100%;
+
+  padding:15px;
+
+  border:none;
+
+  border-radius:15px;
+
+  background:#38bdf8;
+
+  color:white;
+}

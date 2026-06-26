@@ -1,0 +1,33 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  background:
+  linear-gradient(
+  135deg,
+  #0f172a,
+  #1e293b,
+  #312e81
+  );
+
+  color:white;
+
+  min-height:100vh;
+
+  overflow-x:hidden;
+
+  font-family:
+  'Segoe UI',sans-serif;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+.page{
+  min-height:100vh;
+  padding:100px 8%;
+}
